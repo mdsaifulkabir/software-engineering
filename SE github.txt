@@ -1,2 +1,3 @@
 Software Engineering
-Lab Task: Git push & pull ... 
+Lab Task: Git push & pull
+Everything done
